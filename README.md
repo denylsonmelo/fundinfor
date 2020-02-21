@@ -36,16 +36,11 @@ Introdução à informática, História e Evolução dos Computadores, Component
 </div>
 <br/>
 
-* BENEDUZZI, Humberto Martins; METZ, João Ariberto. **[Lógica e linguagem de programação: introdução ao desenvolvimento de software.]** Curitiba: LT, 2010.
-* LEISERSON C. ,RIVEST L., CORMEM T., RIVEST R., STEIN C., **[Algoritmos - Teoria e Pratica.]** Editora Campus, 2ª. Edição, 2002.
-* MENEZES, Nilo Ney Coutinho. **[Introdução à Programação com Python - Algoritmos e Lógica de Programação para Iniciantes.]** 1ª Ed. São Paulo: Novatec, 2010.
-* LAGES, N.; GUIMARÃES, A. **[Algoritmos e estruturas de dados.]** LTC, 2008.
-* BARRY, Paul. **[Use a cabeça! Python.]** Alta Books, 2013.
-* ZIVIANI N. **[Projeto de Algoritmos com Implementações em Java e C++.]** Editora Cengage Learning, 3ª Edição, 2006
-* FORBELLONE, A. L. V. & EBERSPACHER, H. F. **[Lógica de Programação: a Construção de Algoritmos e estruturas de Dados.]** Makron Books, 3ª Edição, 2005. 232p.
-* XAVIER, Gley Fabiano. **[Lógica de Programação.]** Ed. SENAC, 1ª Edição, 2001. 392p.
-* TREMBLAY, Jean Paul e RICHARD, B. Bunt. **[Ciências dos Computadores, Uma Abordagem Algorítmica.]** Ed. McGraw Hill.
-* VILARIM, Gilvan. **[Algoritmos: Programação para Iniciantes.]** 1. ed. Ciência Moderna, 2004.
+* VELLOSO F., **[Informática – Conceitos Básicos]**, Editora Campus, 8ª Edição, 2011. COX, J.. Microsoft Office System 2007. Rio de Janeiro: Campus, 2008.
+* ALCALDE LANCHARRO, Eduardo; GARCIA LOPEZ, Miguel; PENUELAS FERNANDEZ, Salvador. **[Informática básica.]** São Paulo: Makron Books, 2004. 269 p. ISBN 0-07-460510-0
+* CAPRON H. L., JOHNSON J. A., **[Introdução à informática]**. Editora Pearson, 8ª Edição, 2004.
+
+* SCHECHTER, R.. **[BrOffice.Org: Calc e Writer.]** Rio de Janeiro: Campus, 2006.
 
 **Os livros com links possuem exemplares na biblioteca do Campus Parnaíba, os demais encontram-se listados no PPC do curso.**
 
